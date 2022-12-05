@@ -1,0 +1,7 @@
+﻿# Ignore File #
+/*
+!.gitignore
+!doc/
+!utils/
+!NAFNet_*
+!LICENSE
